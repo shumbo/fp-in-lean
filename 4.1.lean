@@ -171,7 +171,5 @@ def twelve := Even.double 6
 #eval six + ten + eight
 #eval six * eight
 
--- TODO: OfNat
-
 -- ### HTTP Requests
 -- TODO
